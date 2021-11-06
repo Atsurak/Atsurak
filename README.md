@@ -15,7 +15,7 @@ I am [Prasanth Kota](https://github.com/Evadore) , a **Pre-Final Year** student 
 <summary>more stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm a Night 🦉** 
 
@@ -80,7 +80,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
 </details>
