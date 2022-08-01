@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
 
-I am [Prasanth Kota](https://github.com/Atsurak) , a **Pre-Final Year** student at [IIITA](https://iiita.ac.in/). I am interested in building interactive websites as a hobby and have prior experience using [react](https://github.com/Atsurak/MarsCamp) and [express](https://github.com/Atsurak/TemperaturA). Connect with me on [Linkedin](https://www.linkedin.com/in/prasanthkota08/) or AMA on [Twitter](https://twitter.com/PK0TA). Some other more interesting facts about me below ...
+I am [Prasanth Kota](https://github.com/Atsurak) , a **Final Year** student at [IIITA](https://iiita.ac.in/). I am interested in building interactive websites as a hobby and have prior experience using [react](https://github.com/Atsurak/MarsCamp) and [express](https://github.com/Atsurak/TemperaturA). Connect with me on [Linkedin](https://www.linkedin.com/in/prasanthkota08/) or AMA on [Twitter](https://twitter.com/PK0TA). Some other more interesting facts about me below ...
 
 <!-- - 🔭 I’m currently working on Cheating Detection Systems for Online Examinations :-)
 - 🌱 I’m currently learning Image Processing with OpenCV. -->
